@@ -16,7 +16,7 @@
 <p align="left">
   <a href="cristina.murguia2817@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="htps://www.linkedin.com/in/cristina-murguiac" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/cristina-murguiac" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   
 </p>
