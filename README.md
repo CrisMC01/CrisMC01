@@ -2,10 +2,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Passionate engineer about technology, lover of clean code and creative solutions.</p>
+ Passionate engineer about technology, 👩🏾‍💻 lover of clean code and creative solutions.</p>
 <p>Constantly learning and seeking to contribute significantly 
-  to the world of software. Find me exploring new projects and sharing knowledge on GitHub</p>
-  <p> I have worked as a Database Administrator for 7 years and I am venturing into the world of programming. I enjoy challenges and I am very good at problem-solving. </p>
+  to the world of software. Find me exploring new projects and sharing knowledge on GitHub.</p>
+ <p> I have worked as a Database Administrator for 7 years and I am venturing into the world of programming. I enjoy challenges and I am very good at problem-solving.</p>
  
 
 <p align="left">
@@ -35,31 +35,22 @@
 
 
 ### ⚙️ GitHub Analytics
-
 <table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=CrisMC01&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisMC01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=CrisMC01&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
+ <tr>
+  <td>
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=CrisMC01&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="CrisMC01's Stats" style="width: 400px; height: 200px;">
+  </td>
+  <td>
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=CrisMC01&theme=dracula&hide_border=true" alt="CrisMC01's Streak" style="width: 400px; height: 200px;">
+  </td>
+  <td>
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisMC01&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="CrisMC01's Top Languages" style="width: 400px; height: 200px;">
+  </td>
+ </tr>
 </table>
+
+
+
+
+
 
