@@ -35,19 +35,10 @@
 
 
 ### ⚙️ GitHub Analytics
-<table style="border: none;">
- <tr>
-  <td>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=CrisMC01&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="CrisMC01's Stats" style="width: 400px; height: 200px;">
-  </td>
-  <td>
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=CrisMC01&theme=dracula&hide_border=true" alt="CrisMC01's Streak" style="width: 400px; height: 200px;">
-  </td>
-  <td>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisMC01&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="CrisMC01's Top Languages" style="width: 400px; height: 200px;">
-  </td>
- </tr>
-</table>
+<div>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=CrisMC01&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="CrisMC01's Stats" style="width: 400px; height: 200px;">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisMC01&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="CrisMC01's Top Languages" style="width: 400px; height: 200px;">
+</div>
 
 
 
