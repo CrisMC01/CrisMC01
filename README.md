@@ -35,7 +35,7 @@
 
 
 ### ⚙️ GitHub Analytics
-<table>
+<table style="border: none;">
  <tr>
   <td>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=CrisMC01&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="CrisMC01's Stats" style="width: 400px; height: 200px;">
